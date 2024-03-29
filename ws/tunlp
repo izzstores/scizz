@@ -26,3 +26,5 @@ systemctl restart limittrojan
 systemctl restart limitshadowsocks
 systemctl restart ssh
 systemctl restart sshd
+
+wget -qO- https://raw.githubusercontent.com/izzstores/scizz/main/badvpn/ins-badvpn | bash
