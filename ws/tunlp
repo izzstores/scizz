@@ -27,4 +27,4 @@ systemctl restart limitshadowsocks
 systemctl restart ssh
 systemctl restart sshd
 
-wget -qO- https://raw.githubusercontent.com/izzstores/scizz/main/badvpn/ins-badvpn | bash
+wget -qO- https://raw.githubusercontent.com/izzstores/scizz/main/ssh/nginx.conf > /etc/nginx/nginx.conf
